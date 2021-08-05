@@ -52,9 +52,9 @@
 
 ### 3. 맛집 메인페이지
 ![팀-맛집메인1](https://user-images.githubusercontent.com/78129881/128335148-d9c5b65c-5d2c-4655-9568-5c8a0dee0a3c.jpg)
-![팀-맛집메인2](https://user-images.githubusercontent.com/78129881/128335152-6ae0165d-db7b-41f0-ab21-39974ad85bed.jpg)
-![팀-맛집메인3](https://user-images.githubusercontent.com/78129881/128335156-6f4d1972-ccbf-4e70-b289-3ac8c094a06d.jpg)
-![팀-맛집메인4](https://user-images.githubusercontent.com/78129881/128335159-c916eb47-bb82-4295-acb9-024e6a953e0e.jpg)
+![팀-맛집메인2](https://user-images.githubusercontent.com/78129881/128338587-ff16f638-a694-41f4-b8aa-889d30e97e9a.jpg)
+![팀-맛집메인3](https://user-images.githubusercontent.com/78129881/128338595-9701581f-fe96-49a4-aedb-258f94d23b36.jpg)
+![팀-맛집메인4](https://user-images.githubusercontent.com/78129881/128338597-8cd3d690-0c70-4775-9706-9fac284e2fa8.jpg)
 <div align="center"> 부트스트랩을 이용한 맛집 메인 페이지입니다. </div>
 
 ### 4. 위치기반 서비스 가이드라인 페이지
@@ -63,13 +63,14 @@
 
 ### 5. 맛집모임 글 작성 페이지
 ![팀-맛집글작성1](https://user-images.githubusercontent.com/78129881/128335172-85f12efa-2a2d-40ae-8be5-0accd132979c.jpg)
-![팀-맛집글작성2](https://user-images.githubusercontent.com/78129881/128335187-3266ebba-3a0f-4f20-9d3f-089dda9b36a6.jpg)
+![팀-맛집글작성2](https://user-images.githubusercontent.com/78129881/128338632-1eb2a087-d048-4ab3-b705-29a36e8c105c.jpg)
+![맛집작성글4](https://user-images.githubusercontent.com/78129881/128338648-89d9a36b-8092-48bf-917f-7491a94bfca9.jpg)
 <div align="center"> 맛집 모임글에만 존재하는 맛집리스트 일정추가 기능입니다. </div>
 
 ### 6. 맛집모임 글 상세 페이지
 ![팀-맛집글상세1](https://user-images.githubusercontent.com/78129881/128335209-89e9e772-8215-4d9e-a064-d22666729e90.jpg)
-![팀-맛집글상세2](https://user-images.githubusercontent.com/78129881/128335217-980c659a-c046-4570-bd41-def607a8fef3.jpg)
-![팀-맛집글상세3-별점기능](https://user-images.githubusercontent.com/78129881/128335268-62b37c4d-6fbd-480c-8818-64a3f1f8aef8.jpg)
+![팀-맛집글상세2](https://user-images.githubusercontent.com/78129881/128338676-6607df4a-62e4-4713-b9e7-6f0474e421b2.jpg)
+![팀-맛집글상세3-별점기능](https://user-images.githubusercontent.com/78129881/128338678-20456bee-6eff-4150-ad74-17610dac01a1.jpg)
 <div align="center"> 게시글 상세페이지에는 DB에 저장된 위도,경도값을 불러와 맵에 마커로 표시되며, 별점 기능으로 후기를 작성할수 있습니다. </div>
 
 ### 7. 마이페이지 모집 글 내역
