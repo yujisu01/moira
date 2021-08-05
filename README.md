@@ -42,8 +42,10 @@
 ### 1. 유저 로그인 (소셜 로그인)
 
 ## :heavy_check_mark: ERD
+![table_erd_수정_210804](https://user-images.githubusercontent.com/78129881/128328964-0ee64b71-e73f-463a-9136-0188ea0f3469.png)
 
 ## :heavy_check_mark: Tech stack
+![backendd](https://user-images.githubusercontent.com/78129881/128328994-d3bb1f68-f9c9-4801-8a28-174cc019d885.jpg)
 
 ## :heavy_check_mark: 담당 기능
 ![담당기능shot](https://user-images.githubusercontent.com/78129881/128327825-b828bdb7-1c3d-4bdf-9ec3-dca2b8c9e1cb.jpg)
