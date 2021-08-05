@@ -10,26 +10,23 @@
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
 [![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)
+
+## :heavy_check_mark: 주요 개발 내용
+## :heavy_check_mark: 프로젝트 총평 및 기여한 부분
+## :heavy_check_mark: 웹 URL
+## :heavy_check_mark: 제작 기간
+
 ## :heavy_check_mark: Overview
 ### 0. 메인페이지
 
 ### 1. 유저 로그인 (소셜 로그인)
 
-### 2. 회원가입
-
-
-### 3. 회원수정
-
-### 4. 회원탈퇴
-
-### 5. 예약하기
-
-
-
-
 ## :heavy_check_mark: ERD
 
 ## :heavy_check_mark: Tech stack
+
+## :heavy_check_mark: 담당 기능
+## :heavy_check_mark: 역할 분배
 
 
  # <div align="center"> :sparkles: 봐주셔서 감사합니다. :sparkles: </div>
