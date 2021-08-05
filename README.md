@@ -31,8 +31,8 @@
     -  사용자 입장에서 어떤 기능이필요할지 생각해봤습니다. 
     카카오맵을 이용한 맛집정보와 위치 표시, 맛집 일정관리등의 기능을 구현했습니다.
 ## :heavy_check_mark: 웹 URL
-   :house: https://moira1.iptime.org:8443/meet/
-[네이버 바로가기](http://www.naver.com/)
+   :house: https://moira1.iptime.org:8443/meet/  
+
    :house: https://moira1.iptime.org:8443/meet/taste/home 
 ## :heavy_check_mark: 제작 기간 ( 7주 - 2021/6/15 ~ 8/3 )
 ![제작기간](https://user-images.githubusercontent.com/78129881/128327027-41283cd8-407f-4499-9df5-26e053af5872.jpg)
