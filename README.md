@@ -39,8 +39,35 @@
 ![제작기간](https://user-images.githubusercontent.com/78129881/128327027-41283cd8-407f-4499-9df5-26e053af5872.jpg)
 ## :heavy_check_mark: Overview
 ### 0. 메인페이지
-
+![팀1-메인](https://user-images.githubusercontent.com/78129881/128335055-263f2803-f30d-4ca6-b2c9-440ef914ea21.jpg)
+<div align="center"> 부트스트랩을 이용한 moira 메인 페이지입니다. </div>
 ### 1. 유저 로그인 (소셜 로그인)
+![팀-로그인](https://user-images.githubusercontent.com/78129881/128335078-9b0f3c69-eeeb-4d93-b134-662d8568b87b.jpg)
+<div align="center"> 카카오와 구글 API를 이용한 소셜로그인 구현 (OAuth)</div>
+### 2. 모임게시판
+![팀-모임게시판](https://user-images.githubusercontent.com/78129881/128335143-8e508e9a-bc18-4109-878f-35f95284c04b.jpg)
+<div align="center"> 각 카테고리별로 모임을 조회할수 있습니다. </div>
+### 3. 맛집 메인페이지
+![팀-맛집메인1](https://user-images.githubusercontent.com/78129881/128335148-d9c5b65c-5d2c-4655-9568-5c8a0dee0a3c.jpg)
+![팀-맛집메인2](https://user-images.githubusercontent.com/78129881/128335152-6ae0165d-db7b-41f0-ab21-39974ad85bed.jpg)
+![팀-맛집메인3](https://user-images.githubusercontent.com/78129881/128335156-6f4d1972-ccbf-4e70-b289-3ac8c094a06d.jpg)
+![팀-맛집메인4](https://user-images.githubusercontent.com/78129881/128335159-c916eb47-bb82-4295-acb9-024e6a953e0e.jpg)
+<div align="center"> 부트스트랩을 이용한 맛집 메인 페이지입니다. </div>
+### 4. 위치기반 서비스 가이드라인 페이지
+![티메위치기반](https://user-images.githubusercontent.com/78129881/128335404-ad136f05-1bf8-4615-b206-73f994f18b4f.jpg)
+<div align="center"> 현재 내 위치가 보이지 않을시, 안내를 도와주는 위치서비스 이용방법 페이지입니다. </div>
+### 5. 맛집모임 글 작성 페이지
+![팀-맛집글작성1](https://user-images.githubusercontent.com/78129881/128335172-85f12efa-2a2d-40ae-8be5-0accd132979c.jpg)
+![팀-맛집글작성2](https://user-images.githubusercontent.com/78129881/128335187-3266ebba-3a0f-4f20-9d3f-089dda9b36a6.jpg)
+<div align="center"> 맛집 모임글에만 존재하는 맛집리스트 일정추가 기능입니다. </div>
+### 6. 맛집모임 글 상세 페이지
+![팀-맛집글상세1](https://user-images.githubusercontent.com/78129881/128335209-89e9e772-8215-4d9e-a064-d22666729e90.jpg)
+![팀-맛집글상세2](https://user-images.githubusercontent.com/78129881/128335217-980c659a-c046-4570-bd41-def607a8fef3.jpg)
+![팀-맛집글상세3-별점기능](https://user-images.githubusercontent.com/78129881/128335268-62b37c4d-6fbd-480c-8818-64a3f1f8aef8.jpg)
+<div align="center"> 게시글 상세페이지에는 DB에 저장된 위도,경도값을 불러와 맵에 마커로 표시되며, 별점 기능으로 후기를 작성할수 있습니다. </div>
+### 7. 마이페이지 모집 글 내역
+![팀-마이페이지모집글내역](https://user-images.githubusercontent.com/78129881/128335233-862a926f-98e8-4842-9936-c4acb5422719.jpg)
+<div align="center"> 마이페이지에서는 자신이 개설한모임과 신청한모임, 참여중인 모임, 완료중인 모임을 확인할수 있습니다. </div>
 
 ## :heavy_check_mark: ERD
 ![table_erd_수정_210804](https://user-images.githubusercontent.com/78129881/128328964-0ee64b71-e73f-463a-9136-0188ea0f3469.png)
