@@ -12,10 +12,28 @@
 [![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)
 
 ## :heavy_check_mark: 주요 개발 내용
+    - Java 기반의 Spring MVC 서버 백엔드 개발
+    - SVN을 통한 형상 관리
+    - 웹캠을 통한 AI 모션인식
+    - 스터디 플래너를 통한 일정관리
+    - 웹소켓을 이용한 채팅 서비스 구현 (개인/ 단체 채팅)
+    - 카카오맵 API를 통한 현재 내주변맛집 표시, 셀렉트박스를 통한 맛집 자동 검색 등
+    - 카카오, 구글 오픈 API를 이용한 소셜로그인   (OAuth) 
+    - 맛집 별점등록 기능
 ## :heavy_check_mark: 프로젝트 총평 및 기여한 부분
-## :heavy_check_mark: 웹 URL
-## :heavy_check_mark: 제작 기간
+    1. 진행해본 프로젝트중 가장 완성도가 높은 서비스
+ 
+    -  개인프로젝트를 진행했을 당시, 소셜로그인의 구현에 실패했었습니다. 
+    이번 프로젝트에서 구글과 카카오톡 API를 정밀하게  분석하며 소셜로그인을 구현했습니다. 
 
+    2. 사용자들이 편리하게 이용할 서비스들로 구성
+ 
+    -  사용자 입장에서 어떤 기능이필요할지 생각해봤습니다. 
+    카카오맵을 이용한 맛집정보와 위치 표시, 맛집 일정관리등의 기능을 구현했습니다.
+## :heavy_check_mark: 웹 URL
+    https://moira1.iptime.org:8443/meet/
+## :heavy_check_mark: 제작 기간 ( 7주 - 2021/6/15 ~ 8/3 )
+![제작기간](https://user-images.githubusercontent.com/78129881/128327027-41283cd8-407f-4499-9df5-26e053af5872.jpg)
 ## :heavy_check_mark: Overview
 ### 0. 메인페이지
 
@@ -26,7 +44,9 @@
 ## :heavy_check_mark: Tech stack
 
 ## :heavy_check_mark: 담당 기능
+![담당기능shot](https://user-images.githubusercontent.com/78129881/128327825-b828bdb7-1c3d-4bdf-9ec3-dca2b8c9e1cb.jpg)
 ## :heavy_check_mark: 역할 분배
+![역할분배](https://user-images.githubusercontent.com/78129881/128328175-c8569457-6135-4457-8b7a-7140d831eac0.jpg)
 
 
  # <div align="center"> :sparkles: 봐주셔서 감사합니다. :sparkles: </div>
