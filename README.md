@@ -33,4 +33,4 @@
 
 
  # <div align="center"> :sparkles: 봐주셔서 감사합니다. :sparkles: </div>
-![image](https://user-images.githubusercontent.com/78129881/128319375-438cbaaf-30e4-4d42-96a5-a18fd94e191c.png)
+
