@@ -11,6 +11,12 @@
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
 [![MOIRA (팀프로젝트) 시연영상 입니다.](https://img.youtube.com/vi/WDIoLiNl9pk/0.jpg)](https://www.youtube.com/watch?v=WDIoLiNl9pk)
+00:00 ~ 00:16 메인페이지
+00:16 ~ 00:34 로그인(소셜로그인) & 로그아웃
+00:35 ~ 01:04 회원가입
+01:05 ~ 01:41 모임- 맛집 메인페이지
+01:42 ~ 02:17 모임- 맛집모임글 작성페이지
+02:18 ~ 모임- 맛집모임글 상세페이지
 
 ## :heavy_check_mark: 주요 개발 내용
     - Java 기반의 Spring MVC 서버 백엔드 개발
