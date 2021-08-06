@@ -10,7 +10,7 @@
     각 관심사별로 다양한 기능을 제공하며 운동,맛집,스터디,축제등의 카테고리로 분류하였습니다.
 
 ## :heavy_check_mark: 시연영상  (클릭시 영상이 재생됩니다)
-[![secretgardenProjectVideo](https://img.youtube.com/vi/qmONs1K2UUc/0.jpg)](https://www.youtube.com/watch?v=qmONs1K2UUc)
+[![MOIRA (팀프로젝트) 시연영상 입니다.](https://img.youtube.com/vi/WDIoLiNl9pk/0.jpg)](https://www.youtube.com/watch?v=WDIoLiNl9pk)
 
 ## :heavy_check_mark: 주요 개발 내용
     - Java 기반의 Spring MVC 서버 백엔드 개발
