@@ -41,6 +41,10 @@
    :house: https://moira1.iptime.org:8443/meet/  
 
    :house: https://moira1.iptime.org:8443/meet/taste/home 
+
+<br></br>
+![웹url접속방법](https://user-images.githubusercontent.com/78129881/128954837-64138b8f-f49f-479d-8c61-6aa8bc914db3.jpg)
+<br></br>
 ## :heavy_check_mark: 제작 기간 ( 7주 - 2021/6/15 ~ 8/3 )
 ![제작기간](https://user-images.githubusercontent.com/78129881/128327027-41283cd8-407f-4499-9df5-26e053af5872.jpg)
 ## :heavy_check_mark: Overview
